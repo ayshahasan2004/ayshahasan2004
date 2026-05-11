@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aysha Hasan</h1>
 
-<h3 align="center">Computer Engineering Student | Developer | Problem Solver</h3>
+<h3 align="center">Computer Engineering Student | Developer </h3>
 
 ---
 
