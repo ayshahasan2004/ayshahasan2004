@@ -1,6 +1,6 @@
 <h1 align="center">hi 👋, i'm aysha hasan</h1>
 
-<h3 align="center">computer engineering student | developer | problem solver</h3>
+<h3 align="center">computer engineering student | developer </h3>
 
 <p align="center">
   <a href="mailto:ayshamohamad560@gmail.com"><img src="https://img.shields.io/badge/ayshamohamad560@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
